@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dbldanda-deva" format="1">
+  <advance width="580"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="380" y="540" type="line"/>
+      <point x="380" y="-40" type="line"/>
+      <point x="520" y="-40" type="line"/>
+      <point x="520" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="540" type="line"/>
+      <point x="120" y="-40" type="line"/>
+      <point x="260" y="-40" type="line"/>
+      <point x="260" y="540" type="line"/>
+    </contour>
+  </outline>
+</glyph>

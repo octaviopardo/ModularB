@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halant-deva" format="1">
+  <advance width="0"/>
+  <unicode hex="094D"/>
+  <outline>
+    <contour>
+      <point x="-182" y="-21" type="line"/>
+      <point x="-254" y="-46" type="line"/>
+      <point x="-209" y="-117" type="line"/>
+      <point x="-160" y="-97" type="line"/>
+      <point x="31" y="-254" type="line"/>
+      <point x="91" y="-198" type="line"/>
+      <point x="-130" y="-21" type="line"/>
+    </contour>
+  </outline>
+</glyph>

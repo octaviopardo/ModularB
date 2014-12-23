@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g382" format="1">
+  <advance width="800"/>
+  <outline>
+    <contour>
+      <point x="100" y="450" type="line"/>
+      <point x="100" y="-250" type="line"/>
+      <point x="700" y="-250" type="line"/>
+      <point x="700" y="450" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="-200" type="line"/>
+      <point x="150" y="-200" type="line"/>
+      <point x="150" y="400" type="line"/>
+      <point x="650" y="400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

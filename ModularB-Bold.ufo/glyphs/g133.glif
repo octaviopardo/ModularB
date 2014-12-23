@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g133" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-185" y="63" type="line"/>
+      <point x="-366" y="-103" type="line"/>
+      <point x="-306" y="-165" type="line"/>
+      <point x="-156" y="-14" type="line"/>
+      <point x="-10" y="-165" type="line"/>
+      <point x="50" y="-108" type="line"/>
+      <point x="-122" y="63" type="line"/>
+    </contour>
+  </outline>
+</glyph>
