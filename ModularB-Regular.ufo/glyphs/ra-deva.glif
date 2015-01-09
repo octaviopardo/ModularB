@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ra-deva" format="1">
   <advance width="418"/>
-  <unicode hex="0930"/>
   <outline>
     <contour>
       <point x="-10" y="500" type="line"/>

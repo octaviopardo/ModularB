@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edblgrave" format="1">
-  <advance width="514"/>
+  <advance width="504"/>
   <unicode hex="0205"/>
   <outline>
     <component base="e"/>
-    <component base="dblgravecomb" xOffset="31"/>
+    <component base="dblgravecomb" xOffset="30"/>
   </outline>
 </glyph>

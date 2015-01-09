@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ghha-deva" format="1">
   <advance width="714"/>
-  <unicode hex="095A"/>
   <outline>
     <contour>
       <point x="-10" y="500" type="line"/>
@@ -40,6 +39,7 @@
       <point x="724" y="500" type="line"/>
     </contour>
     <contour>
+      <point x="204" y="40" type="curve" smooth="yes"/>
       <point x="160" y="40"/>
       <point x="124" y="23"/>
       <point x="124" y="0" type="curve" smooth="yes"/>
@@ -51,7 +51,6 @@
       <point x="271" y="0" type="curve" smooth="yes"/>
       <point x="271" y="23"/>
       <point x="241" y="40"/>
-      <point x="204" y="40" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

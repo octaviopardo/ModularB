@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="au-deva" format="1">
   <advance width="910"/>
-  <unicode hex="0914"/>
   <outline>
     <contour>
       <point x="410" y="500" type="line"/>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nna-deva" format="1">
   <advance width="746"/>
-  <unicode hex="0923"/>
   <outline>
     <contour>
       <point x="-10" y="500" type="line"/>
@@ -27,6 +26,7 @@
       <point x="756" y="500" type="line"/>
     </contour>
     <contour>
+      <point x="296" y="440" type="line"/>
       <point x="313" y="404"/>
       <point x="321" y="356"/>
       <point x="321" y="295" type="curve" smooth="yes"/>
@@ -39,7 +39,6 @@
       <point x="106" y="366"/>
       <point x="114" y="411"/>
       <point x="131" y="440" type="curve"/>
-      <point x="296" y="440" type="line"/>
     </contour>
   </outline>
 </glyph>

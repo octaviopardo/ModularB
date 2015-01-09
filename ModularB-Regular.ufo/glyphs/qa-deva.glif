@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qa-deva" format="1">
   <advance width="777"/>
-  <unicode hex="0958"/>
   <outline>
     <contour>
       <point x="-10" y="500" type="line"/>
@@ -54,6 +53,7 @@
       <point x="787" y="500" type="line"/>
     </contour>
     <contour>
+      <point x="153" y="15" type="curve" smooth="yes"/>
       <point x="112" y="15"/>
       <point x="78" y="-2"/>
       <point x="78" y="-25" type="curve" smooth="yes"/>
@@ -65,7 +65,6 @@
       <point x="225" y="-25" type="curve" smooth="yes"/>
       <point x="225" y="-2"/>
       <point x="193" y="15"/>
-      <point x="153" y="15" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

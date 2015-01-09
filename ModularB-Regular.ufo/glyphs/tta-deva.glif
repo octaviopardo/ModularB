@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tta-deva" format="1">
   <advance width="525"/>
-  <unicode hex="091F"/>
   <outline>
     <contour>
       <point x="-10" y="500" type="line"/>

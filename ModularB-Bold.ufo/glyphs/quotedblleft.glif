@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="1">
-  <advance width="444"/>
+  <advance width="435"/>
   <unicode hex="201C"/>
   <outline>
-    <component base="quoteright" xOffset="476" yOffset="910" xScale="-1" yScale="-1"/>
-    <component base="quoteright" xOffset="303" yOffset="910" xScale="-1" yScale="-1"/>
+    <component base="quoteright" xScale="-1" yScale="-1" xOffset="467" yOffset="892"/>
+    <component base="quoteright" xScale="-1" yScale="-1" xOffset="297" yOffset="892"/>
   </outline>
 </glyph>

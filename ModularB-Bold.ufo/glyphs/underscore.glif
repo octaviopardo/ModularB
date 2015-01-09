@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="1">
-  <advance width="440"/>
+  <advance width="431"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="-3" y="-103" type="line"/>
-      <point x="-3" y="-157" type="line"/>
-      <point x="443" y="-157" type="line"/>
-      <point x="443" y="-103" type="line"/>
+      <point x="-3" y="-101" type="line"/>
+      <point x="-3" y="-154" type="line"/>
+      <point x="434" y="-154" type="line"/>
+      <point x="434" y="-101" type="line"/>
     </contour>
   </outline>
 </glyph>

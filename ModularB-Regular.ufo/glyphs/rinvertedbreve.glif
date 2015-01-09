@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rinvertedbreve" format="1">
-  <advance width="360"/>
+  <advance width="346"/>
   <unicode hex="0213"/>
   <outline>
     <component base="r"/>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="500"/>
+  <advance width="481"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="69" y="565" type="line"/>
-      <point x="69" y="418" type="line"/>
-      <point x="116" y="418" type="line"/>
-      <point x="116" y="491" type="line" smooth="yes"/>
-      <point x="116" y="511"/>
-      <point x="125" y="511"/>
-      <point x="148" y="513" type="curve"/>
-      <point x="381" y="514" type="line"/>
-      <point x="258" y="366"/>
-      <point x="181" y="176"/>
-      <point x="157" y="0" type="curve"/>
-      <point x="233" y="0" type="line"/>
-      <point x="255" y="174"/>
-      <point x="329" y="354"/>
-      <point x="443" y="504" type="curve"/>
-      <point x="443" y="565" type="line"/>
+      <point x="66" y="543" type="line"/>
+      <point x="66" y="402" type="line"/>
+      <point x="112" y="402" type="line"/>
+      <point x="112" y="472" type="line" smooth="yes"/>
+      <point x="112" y="491"/>
+      <point x="120" y="491"/>
+      <point x="142" y="493" type="curve"/>
+      <point x="366" y="494" type="line"/>
+      <point x="248" y="352"/>
+      <point x="174" y="169"/>
+      <point x="151" y="0" type="curve"/>
+      <point x="224" y="0" type="line"/>
+      <point x="245" y="167"/>
+      <point x="316" y="340"/>
+      <point x="426" y="485" type="curve"/>
+      <point x="426" y="543" type="line"/>
     </contour>
   </outline>
 </glyph>
