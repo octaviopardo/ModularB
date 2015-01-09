@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="359"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="125" y="585" type="line"/>
+      <point x="33" y="443" type="line"/>
+      <point x="97" y="443" type="line"/>
+      <point x="179" y="513" type="line"/>
+      <point x="261" y="443" type="line"/>
+      <point x="326" y="443" type="line"/>
+      <point x="233" y="585" type="line"/>
+    </contour>
+  </outline>
+</glyph>
